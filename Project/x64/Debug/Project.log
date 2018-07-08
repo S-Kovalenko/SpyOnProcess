@@ -1,0 +1,7 @@
+﻿  wnd_proc.cpp
+c:\users\admin\desktop\solution\project\wnd_proc.cpp(51): warning C4311: 'reinterpret_cast': pointer truncation from 'LPVOID' to 'DWORD'
+c:\users\admin\desktop\solution\project\wnd_proc.cpp(51): warning C4302: 'reinterpret_cast': truncation from 'LPVOID' to 'DWORD'
+c:\users\admin\desktop\solution\project\wnd_proc.cpp(190): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+c:\users\admin\desktop\solution\project\wnd_proc.cpp(290): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  Project.vcxproj -> C:\Users\Admin\Desktop\Solution\x64\Debug\Project.exe
+  Project.vcxproj -> C:\Users\Admin\Desktop\Solution\x64\Debug\Project.pdb (Partial PDB)

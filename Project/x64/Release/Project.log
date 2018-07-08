@@ -1,0 +1,14 @@
+﻿  algorithms.cpp
+  main.cpp
+  wnd_proc.cpp
+wnd_proc.cpp(24): warning C4005: 'IDC_HELP': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.h(10089): note: see previous definition of 'IDC_HELP'
+wnd_proc.cpp(52): warning C4311: 'reinterpret_cast': pointer truncation from 'LPVOID' to 'DWORD'
+wnd_proc.cpp(52): warning C4302: 'reinterpret_cast': truncation from 'LPVOID' to 'DWORD'
+wnd_proc.cpp(191): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+wnd_proc.cpp(291): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  Generating code
+  All 363 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Project.vcxproj -> C:\Users\Admin\Desktop\Solution\x64\Release\Project.exe
+  Project.vcxproj -> C:\Users\Admin\Desktop\Solution\x64\Release\Project.pdb (Full PDB)
